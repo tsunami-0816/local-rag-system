@@ -1,0 +1,6 @@
+基于 LangChain + 向量数据库的 RAG 智能问答系统
+适配岗位：大模型工程师、Java&Python AI 开发工程师、后端开发工程师（AI 平台）
+项目核心内容
+做一个端到端的本地知识库问答系统：使用bge-small-zh等开源嵌入模型生成向量，用 Qdrant/Chroma 作为向量数据库存储，基于 LangChain 实现检索编排，对接 Qwen2/Llama3 等开源大模型生成回答，最终用 FastAPI 封装成可调用的接口。
+进阶可以兼容你的 Java 基础：用 Spring Boot 做外层业务后端（用户管理、历史记录、权限控制），Python 单独提供 AI 推理服务，两者通过 HTTP/RPC 调用，完美匹配岗位 2 的「Java+Python 双栈」要求。
+补全的能力关键词：RAG 知识库、大模型应用开发、向量数据库、LangChain、嵌入模型、AI 工程化、双栈协同开发

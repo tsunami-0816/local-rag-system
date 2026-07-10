@@ -1,0 +1,14 @@
+langchain
+langchain-ollama
+langchain-qdrant
+qdrant-client
+fastapi
+uvicorn
+pydantic
+python-multipart
+pypdf
+python-docx
+pydantic-settings
+docx2txt
+langchain_community
+langchain_text_splitters
